@@ -1,1 +1,1 @@
-alert("estamos practicando")
+alert("aprendiendo git")
